@@ -13,7 +13,7 @@ void twovariabledecimal()
 void twovariableinteger()
 {
     printf("Enter a number operation:\n");
-    printf("1.Addition      2.Subtraction       3.Multiplication        4.Division     5.Modulus      6.Power");
+    printf("1.Addition      2.Subtraction       3.Multiplication        4.Division     5.Modulus      6.Power        7.Remainder");
 }
 int main()
 {
