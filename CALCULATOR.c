@@ -80,6 +80,9 @@ int main()
       case 6:   printf("%d",(int)pow(G,H));
                 printf("\v\v");
                 break;
+      case 7:   printf("%d",G%H);
+                printf("\v\v");
+                break;
       default:  printf("Check again!Invalid operation.");
                 break;
     }
